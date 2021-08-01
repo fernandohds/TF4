@@ -75,9 +75,10 @@ body {
   margin-left: 30px;
   border-radius: 100%;
   width: 6rem; }
-  .logo .logo:hover {
-    transform: rotate(360deg);
-    transition: 0.4s; }
+
+.logo:hover {
+  transform: rotate(360deg);
+  transition: 0.4s; }
 
 .gridpadre {
   display: grid;
