@@ -112,6 +112,10 @@
   margin-left: auto;
   margin-right: auto; }
 
+.sizeCarrousel {
+  width: 80vw;
+  margin: 0 auto; }
+
 @media only screen and (min-width: 769px) and (max-width: 1080px) {
   .letraFormulario {
     color: white; }
@@ -164,7 +168,7 @@
     margin-left: auto;
     margin-right: auto; }
   .sizeCarrousel {
-    width: 70vw;
+    width: 80vw;
     margin: 0 auto; }
   .titulo {
     color: black;
@@ -240,7 +244,7 @@
   box-sizing: content-box; }
 
 .sizeCarrousel {
-  width: 70vw;
+  width: 80vw;
   margin: 0 auto; }
 
 .titulo {
